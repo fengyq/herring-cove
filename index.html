@@ -4,12 +4,12 @@ title: Lab of Signal Transduction
 {% include showcase.html %}
 {% include greeting.html %}
 <hr />
-<font color="black" font size="10px"> Recent news </font>
+<font color="black" font size="12px"> Recent news </font>
 <hr />
 <ul class="post-list">
     {% for post in site.posts %}
         <h4><a href="{{site.baseurl}}{{post.url}}"> {{ post.title }}  </a> <br></h4>
-        {{ post.date | date: "%F" }} 
+        {{ post.date | date: "%F" }} <br>
         {{ post.category }} <br>
         {{ post.excerpt }} 
         <hr />
