@@ -8,9 +8,10 @@ title: Lab of Signal Transduction
 <hr />
 <ul class="post-list">
     {% for post in site.posts %}
-        <a href="{{site.baseurl}}{{post.url}}"> {{ post.title }}  </a> <br>
+        <h4><a href="{{site.baseurl}}{{post.url}}"> {{ post.title }}  </a> <br></h4>
         {{ post.date | date: "%F" }} <br>
         {{ post.category }} <br>
         {{ post.excerpt }} 
+        <hr />
     {% endfor %}
 </ul>
