@@ -11,14 +11,14 @@ title: About
           </div>
           <div class="col-md-12">
             <hr />
-            <p><i class="fa fa-map-marker"></i>&nbsp;&nbsp;39°59′26.00″N   116°18′12.63″E</p>  
-            <p><i class="fa fa-envelope-o"></i>&nbsp;IMM[at]pku.edu.cn </p>
+            <p><i class="fa fa-map-marker"></i>&nbsp;&nbsp;39°59′26.00″N   116°18′12.63″E &nbsp&nbsp<i class="fa fa-envelope-o"></i>&nbsp;IMM[at]pku.edu.cn</p>  
             <hr />
           </div>
         </div>
         <div class="row">
           <div class="col-md-12 letter">
             <p>The Institute of Molecular Medicine <a href="http://www.imm.pku.edu.cn/">IMM</a> is an autonomous research and educational institute at Peking University <a href="http://www.pku.edu.cn/">PKU</a>, focusing on basic and translational study of cardiovascular and metabolic diseases. Inaugurated in 2005, IMM has now blossomed into an international and leading research institute in cardiovascular science, demonstrated by its excellent track record of scientific discoveries, public service, and training of future leaders in biomedicine and biotechnology.</p>
+            <p>北京大学分子医学研究所（Institute of Molecular Medicine, Peking University, IMM PKU）创建于2005年。该所以心血管病和代谢综合征等重大疾病为主题，集基础、转化、前临床研究为一体，秉持从分子到疾病模型到人“一条龙”的研究战略，进行分子机理和转化医学的研究。</p>
           </div>
         </div>
     </div>
