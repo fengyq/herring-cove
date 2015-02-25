@@ -4,15 +4,3 @@ title: Lab of Signal Transduction
 {% include showcase.html %}
 {% include greeting.html %}
 {% include footer.html %}
-<hr />
-<h3><font color="black"> Recent news </font></h3>
-<hr />
-<ul class="post-list">
-    {% for post in site.posts %}
-        <h4><a href="{{site.baseurl}}{{post.url}}"> {{ post.title }} </a> <br></h4>
-        {{ post.date | date: "%F" }} 
-        {{ post.category }} <br>
-        {{ post.excerpt }} 
-        <hr />
-    {% endfor %}
-</ul>
