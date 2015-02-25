@@ -1,6 +1,6 @@
-<div id="footer" class="col-md-12" style="margin-left:0;margin-right:0; position:absolute">
+<div id="footer" class="row" >
   <div class="col-md-12">
-    <p class="text-primary credit">
+    <p class="text-primary credit" style="margin-right:0; position:absolute">
     <h6>
       &copy; {{ site.time | date: '%Y' }} {{ site.name }} &middot;
       <a href="http://www.imm.pku.edu.cn/"> Institute of Molecular Medicine, Peking University </a>
