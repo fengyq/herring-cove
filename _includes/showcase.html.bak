@@ -44,7 +44,7 @@
 							</p>
 						</div>
 					</div>
-				</div> <a data-slide="prev" href="#carousel-147528" class="left carousel-control"><i class="fa fa-chevron-circle-left"></i></a> 
+				</div> <a data-slide="prev" href="#carousel-147528" <button type="button" class="left carousel-control"> <i class="fa fa-chevron-circle-left"></i></button> </a> 
 				       <a data-slide="next" href="#carousel-147528" class="right carousel-control"><i class="fa fa-chevron-circle-right"></i></a>
 			</div> 
 		</div>
