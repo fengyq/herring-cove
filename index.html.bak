@@ -4,11 +4,6 @@ title: Welcome to Ping Lab
 {% include showcase.html %}
 {% include greeting.html %}
 <hr>
-
-<style>
-time {font-size:15px } 
-</style>
-
 {% if site.posts != empty %}
 <div class="recent-posts">
   <h1>Recent News</h1>

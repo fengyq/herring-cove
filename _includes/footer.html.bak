@@ -1,6 +1,6 @@
 <div class="container">
 <style>
-p.textnew {color="black"; text-align:center; clear:both; padding:20% 0 10px 45px; font-size:5px}
+p.textnew {color="black"; text-align:center; clear:both; padding:10% 0 10px 45px; font-size:5px}
 </style>
   <footer>
     <p class="textnew" >
