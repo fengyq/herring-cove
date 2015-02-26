@@ -54,7 +54,7 @@ p
 
 .homepage-posts
 {
-  list-style:none
+  list-style:circle
 }
 
 .container
@@ -72,7 +72,7 @@ p
 
 #wrapper
 {
-  padding-left:200px;
+  padding-left:18%;
   transition:all .5s ease 0
 }
 
@@ -89,10 +89,10 @@ p
 
 #sidebar-wrapper
 {
-  margin-left:-250px;
-  left:240px;
-  width:220px;
-  background:#cccccc;
+  margin-left:-13.5%;
+  left:13.5%;
+  width:13.5%;
+  background:#7CCD7C;
   position:fixed;
   height:100%;
   overflow-y:auto;
@@ -107,19 +107,20 @@ p
 {
   position:absolute;
   top:1px;
-  width:240px;
+  width:100%;
   list-style:none;
   margin:0;
-  padding:10px 0 10px
+  padding:6.5% 0 6.5% 0;
 }
 
 .sidebar-nav li
 {
   line-height:40px;
-  text-indent:30px;
+  text-indent:2%;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:600;
   color:#000000;
+  padding-left:10%
 }
 
 .sidebar-nav li a
@@ -150,7 +151,7 @@ p
 .sidebar-nav > .sidebar-brand > h3
 {
   font-size:15px;
-  font-weight:200;
+  font-weight:400;
   color:#3f3f3f
 }
 
@@ -171,7 +172,7 @@ p
 
 .brand:hover
 {
-  color:#d90006;
+  color:#FFFFF0;
   -o-transition:.5s;
   -ms-transition:.5s;
   -moz-transition:.5s;
@@ -226,13 +227,13 @@ pre
 #social-wrapper
 {
   color:#5c646f;
-  padding:10px,0
+  padding:2%,0
 }
 
 #social-wrapper a
 {
   font-size:14px;
-  text-indent:15px
+  text-indent:1.5%
 
 }
 
@@ -263,12 +264,20 @@ pre
   z-index:-4
 }
 
+.carousel-caption
+{
+  font-size:1.5em;
+  font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
+  font-weight:normal;
+  color:#FFFFFF;
+}
+
 .showcase-text
 {
   font-size:3em;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:bolder;
-  color:#fff;
+  color:#FFFFFF;
   text-align:center;
   padding-top:20%
 }
@@ -278,7 +287,7 @@ pre
   width:100%;
   background-color:#fff;
   margin:0;
-  padding:0 10% 30px
+  padding:0 10% 10%
 }
 
 #welcome-greeting
@@ -309,7 +318,7 @@ pre
   font-weight:100;
   color:#2e2e2e;
   padding-top:0;
-  line-height:140%
+  line-height:100%
 }
 
 #welcome-greeting h2 a
@@ -448,13 +457,14 @@ time
 {
   background-color:#EAEAEF ;
   color:#000000;
-  margin:10px 10%;
-  padding:10px 30px
+  margin:0;
+  padding-right:20%;
+  line-height:30px;
 }
 
 .recent-posts h1
 {
-  padding:10px 38px;
+  padding:0 2.7%;
   font-size:1.5em
 }
 
@@ -700,24 +710,24 @@ time
   }
 #wrapper.active {
   position: relative;
-  left: 250px;
+  left: 180px;
 }
 
 #wrapper.active #sidebar-wrapper {
-  left: 250px;
-  width: 250px;
+  left: 180px;
+  width: 180px;
   transition: all 0.7s ease 0s;
 }
 
 
 .inset {
-  padding: 15px;
+  padding: 1.5%;
 }
 .navbar 
 {
   display: inherit;
   background-color: #ededed;
-  margin-top: -20px;
+  margin-top: -3%;
 }
 
 }
