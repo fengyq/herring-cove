@@ -520,8 +520,7 @@ time
 }
 
 .introduction
-{padding-left:10px;
- padding-right:10px;
+{padding-left:20px;
  padding-bottom:120px
 	
 }

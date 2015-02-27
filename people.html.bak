@@ -3,32 +3,242 @@ title: People
 ---
 
 <div class="container"> 
+<!-- header -->
+  <div class="people-container">
+    <h1>All Members</h1><br>
+    <center>
+     <a href="#"><span class="label label-danger">Current</span></a>
+     <a href="#"><span class="label label-danger">Previous</span></a>
+    </center>
+  </div>
+  
+  
+ <p><h4>Current Members</h4></p>
+ 
+ <!-- boss -->
+ <hr style="background:#9a9a9a;border:0;color:#9a9a9a;height:1px;" align="center">
  <div class="people">
-  <table> 
-   <tr valign="top">
-    <td>  <p class="intro"><img style="vertical-align:bottom;width:173px;height:200px;" alt="" title="" src="{{site.baseurl}}/images/ping.jpg"></p>
-           <p> <i class="fa fa-envelope"></i>&nbsp; xiaor(at)pku.edu.cn <br>
-               <i class="fa fa-phone-square"></i>&nbsp;  86-10-6275-7243<br>
-               <i class="fa fa-map-marker"></i> &nbsp; Room 236<br>
-           </p>
-    </td>
-    <td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
-
-    <td>  <p class="intro"><img style="vertical-align:bottom;width:173px;height:200px;" alt="" title="" src="{{site.baseurl}}/images/ping.jpg"></p>
-           <p> <i class="fa fa-envelope"></i>&nbsp; xiaor(at)pku.edu.cn <br>
-               <i class="fa fa-phone-square"></i>&nbsp;  86-10-6275-7243<br>
-               <i class="fa fa-map-marker"></i> &nbsp; Room 236<br>
-           </p>
-    </td>
-    <td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
-    <td>  <p class="intro"><img style="vertical-align:bottom;width:173px;height:200px;" alt="" title="" src="{{site.baseurl}}/images/ping.jpg"></p>
-           <p> <i class="fa fa-envelope"></i>&nbsp; xiaor(at)pku.edu.cn <br>
-               <i class="fa fa-user"></i>&nbsp;  86-10-6275-7243<br>
-               <i class="fa fa-graducation-cap"></i> &nbsp; Room 236<br>
-           </p>
-    </td>
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:185px;" alt="ping" title="" src="{{site.baseurl}}/images/ping2.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Rui-Ping Xiao<br>
+              <i class="fa fa-credit-card"></i> &nbsp;Professor<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  xiaor(at)pku.edu.cn <br>
+          </p>
     </td>
    </tr>
   </table>
+  
+ 
+<!-- Assiants --> 
+ <hr style="background:#9a9a9a;border:0;color:#9a9a9a;height:1px;" align="center">
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/zhangyan.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Yan Zhang<br>
+              <i class="fa fa-credit-card"></i> &nbsp;Research Assistant<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; zhangyan9876(at)pku.edu.cn <br>
+          </p>
+    </td>
+    <td> &nbsp; &nbsp; &nbsp; </td>
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/lv.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Feng-Xiang Lv<br>
+              <i class="fa fa-credit-card"></i> &nbsp;Research Assistant<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; fengxiang.lv(at)gmail.com <br>
+          </p>
+    </td>    
+   </tr>
+  </table>
+  
+<!-- Students --> 
+ <hr style="background:#9a9a9a;border:0;color:#9a9a9a;height:1px;" align="center">
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/sile.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Si-Le Guo<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(5th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  sileguo(at)gmail.com <br>
+          </p>
+    </td>
+    <td> &nbsp; &nbsp; &nbsp; </td>
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/zhangmao.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Mao Zhang<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(5th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; icyzhangmao(at)126.com <br>
+          </p>
+    </td>    
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/xiening.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Ning Xie<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(5th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  xieningjing(at)pku.edu.cn <br>
+          </p>
+    </td>    
+   </tr>
+  </table>
+
+  
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/shandan.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Dan Shan<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(4th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; 944725843(at)qq.com<br>
+          </p>
+    </td>    
+    
+    <td> &nbsp; &nbsp; &nbsp; </td>
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/wangyimei.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp; Yi-Mei Wang<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(4th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; wangyimeiimm(at)qq.com<br>
+          </p>
+    </td>    
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/jiangpeng.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Peng Jiang<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(4th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; jiangpeng83(at)hotmail.com <br>
+          </p>
+    </td>
+   </tr>
+  </table>
+  
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/songying.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Ying Song<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(4th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  sdsongying(at)qq.com<br>
+          </p>
+    </td>
+    <td> &nbsp; &nbsp; &nbsp; </td>
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/feng.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Yuan-Qing Feng<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(4th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; yuanqingfeng(at)126.com <br>
+          </p>
+    </td>    
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/yuzhong.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Zhong Yu<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(3th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  loveyuzhong(at)yeah.net<br>
+          </p>
+    </td>    
+   </tr>
+  </table>
+    
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/zhangyong.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Yong Zhang<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(3th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; scutulip(at)163.com<br>
+          </p>
+    </td>
+    <td> &nbsp; &nbsp; &nbsp; </td>
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/wuhongkun.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Hong-Kun Wu<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(3th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; wuhongkun(at)gmail.com<br>
+          </p>
+    </td>    
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/chenyanmin.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Yan-Min Chen<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(3th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  ymchen2008(at)163.com <br>
+          </p>
+    </td>    
+   </tr>
+  </table>
+
+
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/cuimingyao.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Ming-Yao Cui<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(2th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; cmybrightstar(at)163.com<br>
+          </p>
+    </td>   
+    <td> </td> 
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/cuimingyao.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Yuan Yao<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(2th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; amanda731yy(a)gmail.com<br>
+          </p>
+    </td>
+
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/cuimingyao.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Geng-Jia Chen<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(2th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  ymchen2008(at)163.com <br>
+          </p>
+    </td>    
+   </tr>
+  </table>
+  
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/cuimingyao.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Hong-Zhan Xu<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(2th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; xuhongzhank(at)163.com<br>
+          </p>
+    </td> 
+   </tr>
+  </table>
+
+
+<!-- technicians -->
+ <hr style="background:#9a9a9a;border:0;color:#9a9a9a;height:1px;" align="center">
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/jinli.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Ning Xie<br>
+              <i class="fa fa-credit-card"></i> &nbsp;PhD(5th)<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  xieningjing(at)pku.edu.cn <br>
+          </p>
+    </td>
+    <td> &nbsp; &nbsp; &nbsp; </td>
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/ping.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Rui-Ping Xiao<br>
+              <i class="fa fa-credit-card"></i> &nbsp;Professor<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  xiaor(at)pku.edu.cn <br>
+          </p>
+    </td>    
+   </tr>
+  </table>
+  
  </div>
+ 
+
+  <!-- Alumni -->
+ <p><h4>Previous Members</h4></p>
+ <hr style="background:#9a9a9a;border:0;color:#9a9a9a;height:1px;" align="center">
+ <div class="people">
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/liufenghua.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Feng-Hua Liu<br>
+              <i class="fa fa-credit-card"></i> &nbsp;Graduated at 2014<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; huaihuaer1985(at)126.com<br>
+          </p>
+    </td>
+    <td> &nbsp; &nbsp; &nbsp; </td>
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/zhangting.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Ting Zhang<br>
+              <i class="fa fa-credit-card"></i> &nbsp;Graduated at 2014<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; zhangting87(at)gmail.com<br>
+          </p>
+    </td>    
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/guojiaojiao.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Jiao-Jiao Guo<br>
+              <i class="fa fa-credit-card"></i> &nbsp;Graduated at 2014<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; guojiaojiao1986.12(at)163.com<br>
+          </p>
+    </td>     
+   </tr>
+  </table>
+  
+ </div>
+ 
 </div>
