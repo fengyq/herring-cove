@@ -193,7 +193,7 @@ title: People
   <table cellspacing="1" cellpadding="10" border="0" > 
    <tr valign="bottom" class="photo">
     <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/jinli.jpg"> </p>
-          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Ning Xie<br>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Li Jin<br>
               <i class="fa fa-credit-card"></i> &nbsp;Lab manager<br>
               <i class="fa fa-envelope"></i>&nbsp;&nbsp;  jinli(at)pku.edu.cn <br>
           </p>
