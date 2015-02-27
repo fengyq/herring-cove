@@ -160,7 +160,7 @@ title: People
           </p>
     </td>   
     <td> </td> 
-    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/cuimingyao.jpg"> </p>
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/yaoyuan.jpg"> </p>
           <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Yuan Yao<br>
               <i class="fa fa-credit-card"></i> &nbsp;PhD(2th)<br>
               <i class="fa fa-envelope"></i>&nbsp;&nbsp; amanda731yy(a)gmail.com<br>
@@ -194,15 +194,15 @@ title: People
    <tr valign="bottom" class="photo">
     <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/jinli.jpg"> </p>
           <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Ning Xie<br>
-              <i class="fa fa-credit-card"></i> &nbsp;PhD(5th)<br>
-              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  xieningjing(at)pku.edu.cn <br>
+              <i class="fa fa-credit-card"></i> &nbsp;Lab manager<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  jinli(at)pku.edu.cn <br>
           </p>
     </td>
     <td> &nbsp; &nbsp; &nbsp; </td>
-    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/ping.jpg"> </p>
-          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Rui-Ping Xiao<br>
-              <i class="fa fa-credit-card"></i> &nbsp;Professor<br>
-              <i class="fa fa-envelope"></i>&nbsp;&nbsp;  xiaor(at)pku.edu.cn <br>
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/zhangwenqian.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Wen-Qian Zhang<br>
+              <i class="fa fa-credit-card"></i> &nbsp;Technician<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; 510068262(at)qq.com <br>
           </p>
     </td>    
    </tr>
@@ -212,7 +212,7 @@ title: People
  
 
   <!-- Alumni -->
- <p><h4>Previous Members</h4></p>
+ <p><h4>Alumni</h4></p>
  <hr style="background:#9a9a9a;border:0;color:#9a9a9a;height:1px;" align="center">
  <div class="people">
   <table cellspacing="1" cellpadding="10" border="0" > 
@@ -223,7 +223,7 @@ title: People
               <i class="fa fa-envelope"></i>&nbsp;&nbsp; huaihuaer1985(at)126.com<br>
           </p>
     </td>
-    <td> &nbsp; &nbsp; &nbsp; </td>
+    <td> &nbsp;  </td>
     <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/zhangting.jpg"> </p>
           <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Ting Zhang<br>
               <i class="fa fa-credit-card"></i> &nbsp;Graduated at 2014<br>
@@ -236,6 +236,17 @@ title: People
               <i class="fa fa-envelope"></i>&nbsp;&nbsp; guojiaojiao1986.12(at)163.com<br>
           </p>
     </td>     
+   </tr>
+  </table>
+  
+  <table cellspacing="1" cellpadding="10" border="0" > 
+   <tr valign="bottom" class="photo">
+    <td>  <p> <img style="vertical-align:bottom;width:164px;height:200px;" alt="ping" title="" src="{{site.baseurl}}/images/ligeng.jpg"> </p>
+          <p> <i class="fa fa-user"></i>&nbsp;&nbsp;&nbsp;Geng Li<br>
+              <i class="fa fa-credit-card"></i> &nbsp;Graduated at 2012<br>
+              <i class="fa fa-envelope"></i>&nbsp;&nbsp; ligeng81@yahoo.com.cn(<br>
+          </p>
+    </td> 
    </tr>
   </table>
   
