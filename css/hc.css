@@ -42,6 +42,24 @@ p
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:400
 }
+.Publications-background
+{background-image:url(http://lorempixel.com/900/200/);}
+
+.Publications-background h1
+{  font-size:2.5em;
+  font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
+  font-weight:600;
+  color:#FFFFFF;
+	}
+
+
+#article
+{
+  margin-bottom:30px;
+  background-color:#f9f9f9;
+  box-shadow:1px 1px 0 1px #e8e8e8;
+  padding:10px 40px 0
+}
 
 .posts
 {
@@ -55,6 +73,12 @@ p
 .homepage-posts
 {
   list-style:circle
+}
+
+.publication-container
+{
+  width:90%;
+  padding-right:0;
 }
 
 .container
@@ -374,6 +398,7 @@ pre
   transition:all .2s ease 0
 }
 
+
 .article-title
 {
   font-size:30px;
@@ -393,13 +418,6 @@ img
   max-width:100%;
 }
 
-#article
-{
-  margin-bottom:30px;
-  background-color:#f9f9f9;
-  box-shadow:1px 1px 0 1px #e8e8e8;
-  padding:10px 40px 0
-}
 
 .post
 {
@@ -508,6 +526,7 @@ time
   text-align:center;
   padding-top:20px
 }
+
 
 .people-container h1
 {
@@ -623,22 +642,22 @@ time
 
 .fashion-button
 {
-  background-color:#bc0005
+  background-color:#7dbcb2
 }
 
 .fashion:hover
 {
-  border-left:solid 2px #f40006
+  border-left:solid 2px #bc0005
 }
 
 .fashion-button:hover
 {
-  background-color:#f40006
+  background-color:#8B1A1A
 }
 
 .programming
 {
-  border-left:solid 2px #7dbcb2
+  border-left:solid 2px #EE7600
 }
 
 .programming-button
@@ -648,12 +667,12 @@ time
 
 .programming:hover
 {
-  border-left:solid 2px #bbe9e2
+  border-left:solid 2px #644539
 }
 
 .programming-button:hover
 {
-  background-color:#bbe9e2
+  background-color:#8B1A1A
 }
 
 .tech
@@ -663,37 +682,37 @@ time
 
 .tech-button
 {
-  background-color:#644539
+  background-color:#7dbcb2
 }
 
 .tech:hover
 {
-  border-left:solid 2px #F4A273
+  border-left:solid 2px #EEEE00
 }
 
 .tech-button:hover
 {
-  background-color:#F4A273
+  background-color:#8B1A1A
 }
 
 .misc
 {
-  border-left:solid 2px #9e9599
+  border-left:solid 2px #C71585
 }
 
 .misc-button
 {
-  background-color:#9e9599
+  background-color:#7dbcb2
 }
 
 .misc:hover
 {
-  border-left:solid 2px #cfe0ea
+  border-left:solid 2px #76EE00
 }
 
 .misc-button:hover
 {
-  background-color:#cfe0ea
+  background-color:#8B1A1A
 }
 
 .podcasts
@@ -703,17 +722,17 @@ time
 
 .podcasts-button
 {
-  background-color:#387b94
+  background-color:#7dbcb2
 }
 
 .podcasts:hover
 {
-  border-left:solid 2px #2FD0EF
+  border-left:solid 2px #9A32CD
 }
 
 .podcasts-button:hover
 {
-  background-color:#2FD0EF
+  background-color:#8B1A1A
 }
 
 #menu-toggle,.project-post div
@@ -721,7 +740,7 @@ time
   display:none
 }
 
-#article h1,#article h2,#article h3
+#article h2,#article h3, #article p
 {
   color:#3a3a3a
 }
