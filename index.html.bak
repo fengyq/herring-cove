@@ -23,7 +23,7 @@ time {font-size:15px }
       <li>
         <span>
           <h4>
-            <a href="{{ site.baseurl }}/http://fengyq.github.io/{{ post.url }}">
+            <a href="{{ site.baseurl }}/{{ post.url }}">
               {{ post.title }}
             </a>
             {{ fresh_tag }}
