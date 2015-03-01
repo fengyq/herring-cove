@@ -1,6 +1,6 @@
-----
-Documents
-----
+---
+title: Markdown reference
+---
 
 
 Welcome to StackEdit!
