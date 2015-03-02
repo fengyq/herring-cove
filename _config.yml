@@ -9,7 +9,7 @@ email: IMM@pku.edu.cn
 location: Beijing
 disqus: diqus-fengyq
 
-##Make sure to edit the above fields, especially for disqus.pygments
+##Make sure to edit the above fields, especially for disqus.
 
 
 highlighter: pygments
