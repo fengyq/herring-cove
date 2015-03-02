@@ -34,8 +34,8 @@ h4.carousel-caption {color:#FFFFFF;}
 					<div class="item">
 						<img alt="" src="{{ site.baseurl }}/images/3.jpg" >
 						<div class="carousel-caption">
-							<p><b>Thesis Defense</b></p>
-							<p>Congratulation!</p>
+							<p><b>Biking</b></p>
+							<p>We love tripping</p>
 						</div>
 					</div>
 					<div class="item">
