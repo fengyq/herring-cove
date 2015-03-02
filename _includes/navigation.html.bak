@@ -33,7 +33,7 @@
     <li><a href="{{ site.baseurl }}/projects.html">Projects</a></li>
     <li><a href="{{ site.baseurl }}/people.html">People</a></li>
     <li><a href="{{ site.baseurl }}/publication.html">Publication</a></li>
-    <li><a href="{{ site.baseurl }}/photo.html">Photo</a></li>
+    <li><a href="{{ site.baseurl }}/photo.html">Photo></a></li>
     <li><a href="{{ site.baseurl }}/news.html">News</a></li>
     <hr />
     <div id="social-wrapper">
