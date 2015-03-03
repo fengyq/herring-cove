@@ -4,7 +4,7 @@ title: Markdown reference
 
 
 Welcome to StackEdit!
-===================
+-------------
 
 
 Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
@@ -166,10 +166,6 @@ Term 3
 
 GitHub's fenced code blocks are also supported with **Highlight.js** syntax highlighting:
 
-```
-// Foo
-var bar = 0;
-```
 
 > **Tip:** To use **Prettify** instead of **Highlight.js**, just configure the **Markdown Extra** extension in the <i class="icon-cog"></i> **Settings** dialog.
 
@@ -216,9 +212,7 @@ $$
 
 > **Tip:** To make sure mathematical expressions are rendered properly on your website, include **MathJax** into your template:
 
-```
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-```
+
 
 > **Note:** You can find more information about **LaTeX** mathematical expressions [here][4].
 
@@ -245,18 +239,6 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
-
-> **Note:** You can find more information:
-
-> - about **Sequence diagrams** syntax [here][7],
-> - about **Flow charts** syntax [here][8].
-
-### Support StackEdit
-
-[![](https://cdn.monetizejs.com/resources/button-32.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
-
-  [^stackedit]: [StackEdit](https://stackedit.io/) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
-
 
   [1]: http://math.stackexchange.com/
   [2]: http://daringfireball.net/projects/markdown/syntax "Markdown"
