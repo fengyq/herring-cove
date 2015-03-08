@@ -21,7 +21,7 @@
 <![endif]-->
 
 <meta charset="utf-8">
-<title>About</title>
+<title>Welcome to Ping's Lab</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="name" content="Ping's Lab">
 <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -102,38 +102,153 @@
 <!--[if lt IE 8]>
 <script src="/js/html5shiv.js"></script>
 <![endif]-->
+	
+<!--[if lt IE 10]>
+<script src="/js/html5shiv.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="/js/html5shiv.js"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+<script src="/js/html5shiv.js"></script>
+<![endif]-->
 
-<div class="container">  
-<div align="center"><img src="http://www.cls.edu.cn/uploads/Boosen1322560602.jpg" alt="face" width="180" height="200"> </div>
+<style>
+h4.carousel-caption {color:#FFFFFF;}
+</style>
 
+<div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span12">
+			<div class="carousel slide" id="carousel-147528">
+				<ol class="carousel-indicators">
+					<li data-slide-to="0" data-target="#carousel-147528">
+					</li>
+					<li data-slide-to="1" data-target="#carousel-147528" class="active">
+					</li>
+					<li data-slide-to="2" data-target="#carousel-147528">
+					</li>
+        	<li data-slide-to="3" data-target="#carousel-147528">
+					</li>					
+				</ol>
+				<div class="carousel-inner">
+					<div class="item">
+						<img alt="" src="/images/1.jpg" > 
+						<div class="carousel-caption">
+						  <p><b>Summer Tripping</b></p>
+							<p>Olympic Forest Park</p>
+						</div>
+					</div>
+					<div class="item active">
+						<img alt="" src="/images/2.jpg" >
+						<div class="carousel-caption">
+							<p><b>Weiming Lake</b></p>
+							<p>BoYa Tower</p>
+						</div>
+					</div>
+					<div class="item">
+						<img alt="" src="/images/3.jpg" >
+						<div class="carousel-caption">
+							<p><b>Thesis Defense</b></p>
+							<p>Congratulation!</p>
+						</div>
+					</div>
+					<div class="item">
+						<img alt="" src="/images/4.jpg" >
+						<div class="carousel-caption">
+							<p><b>Limpid Night</b></p>
+							<p>Campus Hua Biao</p>
+						</div>
+					</div>					
+				</div> <a data-slide="prev" href="#carousel-147528" class="left carousel-control"><i class="fa fa-chevron-circle-left"></i></a> 
+				       <a data-slide="next" href="#carousel-147528" class="right carousel-control"><i class="fa fa-chevron-circle-right"></i></a>
+			</div> 
+		</div>
+	</div>
+</div>
 
-<p></p><center> <br>
-<strong>Rui-Ping Xiao, M.D. Ph.D</strong> <br>
-Professor, Director of IMM <br>
-Principal Investigator, Laboratory of Signal Transduction  <br>
-</center> <br>
-<p></p>
+<!--[if lt IE 10]>
+<script src="/js/html5shiv.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="/js/html5shiv.js"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+<script src="/js/html5shiv.js"></script>
+<![endif]-->
 
-<p><h4>Introduction</h4><br>
-Rui-Ping Xiao was trained as a cardiologist and physiologist at Tong-Ji Medical University in Wuhan, China and the Medical School at University of Maryland at Baltimore (UMAB), where she earned her M.D. in 1984 and Ph.D. in 1995, respectively. She joined the Laboratory of Cardiovascular Science, National Institute of Aging in 1990 as a postdoctoral fellow, and later in 1996 became a tenure-track investigator and the head of the Receptor Signaling Unit. In 2003, she was converted to Senior Investigator at National Institute of Health, USA. In Aprial 2010, she resigned from NIH and started her career in IMM, Peking University.
-</p>
+<style>
+h2 {text-align:center;}
+</style>
 
-<br>
+<div class="container">
+    <div id="welcome-greeting">
+      <h2>Welcome to Ping's lab!</h2>
+      <br />
+    </div>
+</div>
 
-<p> <h4>Research Interests</h4><br>
-Her main scientific focus has been G-protein coupled receptor (GPCR) signaling in the cardiovascular system. Using interdisciplinary approaches, including physiological and pharmacological techniques in conjunction with genetic manipulations (e.g. gene-targeted animal models or adenoviral gene transfer systems), her work revealed dual coupling of b2-adrenergic receptor (b2AR) with two functionally opposite G-protein families, Gs and Gi proteins and its physiological and pathophysiological significance. Ongoing research directions include signaling pathways involved in cardiac myocyte apoptosis, hypertrophy, regeneration, and atherosclerosis. In addition, considerable efforts have been devoted to understanding mechanisms underlying cardiac aging and heart failure and developing novel therapies for the treatment of heart failure. Recently, Her interest has converted to metabolism diseases，especially diabetes and obesity.
-</p>
 
 <hr>
 
-<p> 
-   
-    <i class="fa fa-envelope"></i>&nbsp; xiaor(at)pku.edu.cn <br>
-    <i class="fa fa-phone-square"></i>&nbsp;  86-10-6275-7243<br>
-    <i class="fa fa-map-marker"></i> &nbsp; Room 322, Ying-Jie Conference Center, Peking University<br>
-</p>
+<style>
+time {font-size:15px }   
+.recent-posts ul li{list-style-type:none;padding-left:40px;padding-top:4px;}   
+.recent-posts h1{ padding:0 2.7%;font-size:1.5em}
+</style>
+
+
+<div class="recent-posts">
+  <h1> &#9827 Recent News</h1>
+  
+    
+      
+      
+    
+    <ul class="homepage-posts">
+      <li>
+        <span>
+          <h4>
+            <a href="http://fengyq.github.io///2015/02/01/Lab%20homepage%20online%20now!.html">
+              Lab homepage online now!
+            </a>
+            
+        &nbsp;<span class="badge"><smaller>fresh</smaller></span>
+      
+            <time class="pull-right">
+              Feb 1, 2015
+            </time>
+          </h4>
+        </span>
+      </li>
+    </ul>
+    
+    
+  
+    
+    <ul class="homepage-posts">
+      <li>
+        <span>
+          <h4>
+            <a href="http://fengyq.github.io///2013/12/04/Samples.html">
+              Markdown Samples
+            </a>
+            
+            <time class="pull-right">
+              Dec 4, 2013
+            </time>
+          </h4>
+        </span>
+      </li>
+    </ul>
+    
+    
+  
+  <ul>
+    <a href="/news.html">View More...</a>
+  </ul>
 </div>
-</div>
+
       </div>
       <!--[if lt IE 11]>
 <script src="/js/html5shiv.js"></script>

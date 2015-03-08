@@ -79,11 +79,6 @@ p
   padding-bottom:30px
 }
 
-.homepage-posts
-{
-  list-style:circle
-}
-
 .container
 {
   width:85%;
@@ -512,9 +507,11 @@ time
   background-color:#EAEAEF ;
   color:#000000;
   margin:0;
-  padding-right:20%;
+  padding-right:10%;
   line-height:30px;
+  width:100%;
 }
+
 
 .recent-posts h1
 {

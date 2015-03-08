@@ -16,7 +16,9 @@ title: Welcome to Ping's Lab
 <hr>
 
 <style>
-time {font-size:15px } 
+time {font-size:15px }   
+.recent-posts ul{list-style-type:none;padding-left:40px;padding-top:4px;}   
+.recent-posts h1{ padding:0 2.7%;font-size:1.5em}
 </style>
 
 {% if site.posts != empty %}
@@ -29,7 +31,7 @@ time {font-size:15px }
         &nbsp;<span class="badge"><smaller>fresh</smaller></span>
       {% endcapture %}
     {% endif %}
-    <ul class="homepage-posts {{ add_class }}">
+    <ul class="homepage-posts">
       <li>
         <span>
           <h4>

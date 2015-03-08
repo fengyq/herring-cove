@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 /*html5*/
-article,aside,dialog,footer,header,section,footer,nav,figure,menu{display:block}
+article,aside,dialog,footer,header,section,nav,figure,menu{display:block}
 
 body
 {
